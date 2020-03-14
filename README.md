@@ -1,4 +1,4 @@
-# particle-identification
+# Particle Identification
 This code package is developed to tack the circular columns observed in liquid-phase TEM images.
 Current version: 1.0
 Date: 3/2020
