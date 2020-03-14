@@ -1,7 +1,7 @@
 # Particle Identification
-This code package is developed to tack the circular columns observed in liquid-phase TEM images.
-Current version: 1.0
-Date: 3/2020
+This code package is developed to track the circular columns observed in liquid-phase TEM images.  
+Current version: 1.0  
+Date: 3/2020  
 For more information about the project, algorithms, and related publications please refer to the [Chen Group website](https://chenlab.matse.illinois.edu/).
 
 Reference
