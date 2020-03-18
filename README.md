@@ -12,7 +12,7 @@ If you find our statistical approach useful for analyzing your data, please cite
 Getting started
 ---------------
 The following steps should be executed:
-1. Download and extract the package (2 MB, download complete in a few seconds)
+1. Download and extract the package (2 MB, download should complete in a few seconds)
 2. Run "identifyParticles.m" (Run time: 1.5 s per frame)
 
 Note
