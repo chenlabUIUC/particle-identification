@@ -7,7 +7,7 @@ For more information about the project, algorithms, and related publications ple
 
 Reference
 ---------------
-If you find our statistical approach useful for analyzing your data, please cite: Z. Ou, L. Yao, H. An, B. Shen, Q. Chen, "Imaging how thermal capillary waves and anisotropic interfacial stiffness shape nanoparticle supracrystals" Nature Communications 11, 4555 (2020).
+If you find our statistical approach useful for analyzing your data, please cite:  Z. Ou, L. Yao, H. An, B. Shen, Q. Chen, "Imaging how thermal capillary waves and anisotropic interfacial stiffness shape nanoparticle supracrystals" Nature Communications, 11, 4555 (2020).
 
 Getting started
 ---------------
